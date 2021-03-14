@@ -1,7 +1,7 @@
 Hi,<br> 
 I’m @t0t0m4st3r, <br>
 I’m interested in 👀 cyber security,<br>
-I’m currently learning how to improve my efficiency, (@scale, @automation, @red/blueteam)<br>
+I’m currently learning how to improve my efficiency (@scale, @automation, @red/blueteam),<br>
 I’m looking to collaborate on infosec projects,<br>
 Feel free to reach me:<br> 📫  t0t0m4st3r@protonmail.com
 
